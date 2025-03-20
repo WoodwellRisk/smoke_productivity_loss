@@ -76,5 +76,5 @@ The analysis provides:
 
 - Val Martin, M., et al. (2018). [Wildfire impacts on surface smoke and air quality over global scales](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2018GH000144)
 - [UCAR Spatial Population Database](https://www.cgd.ucar.edu/sections/iam/modeling/spatial-population)
-- Chang, K.L. et al. (2019). [Estimating the effects of long-term wildfire smoke exposure on morbidity and mortality in Northern Thailand](https://doi.org/10.1016/j.earscienv.2019.113391)
-- Kjellstrom, T. et al. (2016). [Climate change and labour productivity: Impacts of high temperature in garment factories in Bangladesh](https://doi.org/10.1007/978-3-319-31816-5_3825-1)
+- He, J., et al. (2022). [Severe Air Pollution and Labor Productivity: Evidence from Industrial Towns in China]
+(https://www.aeaweb.org/articles?id=10.1257/app.20170286)
